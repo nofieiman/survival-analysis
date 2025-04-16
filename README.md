@@ -15,8 +15,9 @@ Proyek ini melakukan analisis survival untuk memprediksi **berapa lama startup d
 
 ## 📦 Isi Proyek
 
-- `Survival_analysis.ipynb` → Notebook utama untuk preprocessing, model fitting, dan visualisasi
-- `startup_data_fixed.csv` → Dataset startup Indonesia (simulasi dummy)
+- `survival_analysis.ipynb` → Notebook utama untuk preprocessing, model fitting, dan visualisasi
+- `survival_analysis.py` → Skrip utama untuk preprocessing, model fitting, dan visualisasi
+- `startup_data.csv` → Dataset startup Indonesia (simulasi dummy)
 - `README.md` → Dokumentasi proyek
 
 ---
