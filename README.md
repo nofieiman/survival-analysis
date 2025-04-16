@@ -59,17 +59,9 @@ Proyek ini melakukan analisis survival untuk memprediksi **berapa lama startup d
 
 
 ## 💡 Catatan Tambahan
+- Dataset yang digunakan adalah versi simulasi. Untuk riset lanjutan, disarankan menggunakan dataset asli (misalnya dari DSInnovate, Crunchbase, DailySocial).
 
-    Dataset yang digunakan adalah versi simulasi. Untuk riset lanjutan, disarankan menggunakan dataset asli (misalnya dari DSInnovate, Crunchbase, DailySocial).
-
-    Model dapat dikembangkan lebih lanjut dengan memasukkan fitur-fitur seperti: revenue, burn rate, investor quality, product-market fit, dll.
-
----
-## 🧠 Author
-
-Nofie Iman
-Universitas Gadjah Mada
-LinkedIn
+ -   Model dapat dikembangkan lebih lanjut dengan memasukkan fitur-fitur seperti: revenue, burn rate, investor quality, product-market fit, dll.
 
 ---
 ## 📄 License
